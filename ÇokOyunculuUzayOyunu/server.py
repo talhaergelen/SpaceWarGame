@@ -4,7 +4,7 @@ from _thread import *
 import random
 import time
 
-server = "10.66.114.86"  # KENDİ IP'n ile değiştir
+server = "server ipv4 adresi"  # KENDİ IP'n ile değiştir
 port = 5555
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
